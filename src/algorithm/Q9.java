@@ -10,5 +10,6 @@ public class Q9 {
             }
         }
         return sum;
+
     }
 }
